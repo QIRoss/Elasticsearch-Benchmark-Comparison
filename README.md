@@ -1,4 +1,4 @@
-# Elasticsearch
+# Elasticsearch Benchmark Comparison
 
 Studies based in day 37-38 of 100 Days System Design for DevOps and Cloud Engineers.
 
