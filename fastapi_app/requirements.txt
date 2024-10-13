@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+elasticsearch
+faker
+asyncpg
+databases
+psycopg2-binary
